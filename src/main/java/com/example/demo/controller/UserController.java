@@ -22,6 +22,7 @@ public class UserController {
         map.put("sex","男");
         map.put("weight","140");
         map.put("myName","我是刘梦辉");
+        map.put("company","zyzh");
         map.put("birthday","2020");
         return map;
     }
